@@ -29,7 +29,7 @@ docker run -it -p 50070:50070 -p 8088:8088 -p 8080:8080 fedric/hadoop-spark-pig-
 
 Clone Repository into the system
 ```
-git clone https://github.com/Joel-Fedric/emotion-detection-using-hadoop.git
+git clone https://github.com/Joel-Dandin/emotion-detection-using-hadoop.git
 ```
 
 Create Directory in Hadoop HDFS to load data for processing
